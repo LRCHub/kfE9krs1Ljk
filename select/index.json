@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "如果這都不算愛",
+  "base_artist": "張學友",
+  "createdAt": "2026-03-01T10:54:15.877040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/01_如果這都不算愛_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "如果這都不算愛 - \"雙面對決\" Live",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/02_如果這都不算愛_-__雙面對決__Live_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "如果這都不算愛 - “雙面對決” Live",
+      "artist": "Wu Bai",
+      "has_synced": true,
+      "path": "select/03_如果這都不算愛_-_“雙面對決”_Live_Wu_Bai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "張學友",
+      "has_synced": false,
+      "path": "select/04_如果這都不算愛_張學友.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/05_如果這都不算愛_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/06_如果這都不算愛_張學友.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "如果這都不算愛 (“雙面對決” Live)",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/07_如果這都不算愛_(“雙面對決”_Live)_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "如果這都不算愛 (If This Is Not Love)",
+      "artist": "Wu Bai",
+      "has_synced": true,
+      "path": "select/08_如果這都不算愛_(If_This_Is_Not_Love)_Wu_Bai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/09_如果這都不算愛_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "如果這都不算愛 (Live)",
+      "artist": "張學友",
+      "has_synced": false,
+      "path": "select/10_如果這都不算愛_(Live)_張學友.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "如果這都不算愛 - “雙面對決” Live",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/11_如果這都不算愛_-_“雙面對決”_Live_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "伍佰演唱会",
+      "has_synced": true,
+      "path": "select/12_如果這都不算愛_伍佰演唱会.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "如果這都不算愛",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/13_如果這都不算愛_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "如果這都不算愛",
+      "artist": "張學友",
+      "has_synced": false,
+      "path": "select/pl_01_如果這都不算愛_張學友.txt"
+    }
+  ]
+}
